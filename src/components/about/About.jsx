@@ -29,19 +29,19 @@ const About = () => {
             <article className="about__card">
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>0 Worldwie! And locally too.</small>
+              <small>0 Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>Have some</small>
+              <small>Got some</small>
             </article>
-
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro ab voluptate corrupti natus voluptatum dolorum doloribus enim quas tenetur assumenda illum odio similique eos culpa sunt possimus, optio eius? Illum.</p>
-
-            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
+
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro ab voluptate corrupti natus voluptatum dolorum doloribus enim quas tenetur assumenda illum odio similique eos culpa sunt possimus, optio eius? Illum.</p>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+
         </div>
       </div>
     </section>
