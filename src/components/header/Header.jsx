@@ -10,13 +10,14 @@ const Header = () => {
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Anton Simkin</h1>
-        <h5 className="text-light">Ultra Fullstack Backend Frontend Sideend Developer 3000</h5>
+        <h5 className="text-light">Programming Enthusiast</h5>
         <CTA />
         <HeaderSocials />
 
-        <div className="me">
+        {/* my photo */}
+        {/* <div className="me">
           <img src={ME} alt="me" />
-        </div>
+        </div> */}
 
         <a href="#contact" className='scroll__down'>Scroll Down</a>
       </div>

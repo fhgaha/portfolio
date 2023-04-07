@@ -39,9 +39,9 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro ab voluptate corrupti natus voluptatum dolorum doloribus enim quas tenetur assumenda illum odio similique eos culpa sunt possimus, optio eius? Illum.</p>
+          <p>{"<--"} This is not my photo. But you can hover on it!</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
-
+          <br /><br /><br /><br />
         </div>
       </div>
     </section>
